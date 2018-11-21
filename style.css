@@ -74,7 +74,7 @@ nav{
 }
 
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 600px){
 	.topnav a:not(:first-child){
 		display: none;
 	}
@@ -106,7 +106,7 @@ nav{
 	}
 }
 
-@media screen and (max-width: 510px){
+@media screen and (max-width: 410px){
 	.advantages{
 		flex-direction: column; /*по 1 эл-ту в строку*/
 	}
