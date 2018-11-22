@@ -106,7 +106,7 @@ nav{
 	}
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 375px){
 	.advantages{
 		flex-direction: column; /*по 1 эл-ту в строку*/
 	}
